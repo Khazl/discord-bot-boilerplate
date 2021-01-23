@@ -1,0 +1,11 @@
+{
+  "name": "bot-boilerplate",
+  "version": "1.0.0",
+  "description": "Discord Bot Boilerplate",
+  "main": "bot.js",
+  "author": "Khazl",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "winston": "^3.1.0"
+  }
+}
